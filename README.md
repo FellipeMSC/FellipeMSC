@@ -3,7 +3,6 @@
 
 
 - 📚 Atualmente estudando C++ e Python. 
-- 👨‍🎓 Procuro colaborar com a minha própria evolução e aprendizado
 - 📫 Como me contatar: fellipemscs@gmail.com
 - 💻 Formação: Sistemas de Informação
 ##
