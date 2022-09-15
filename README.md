@@ -26,5 +26,5 @@
  <a href="https://github.com/FellipeMSC" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" target="_blank"></a>
  <a href="https://github.com/FellipeMSC" target="_blank"><img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" target="_blank"></a>
  
-   <a href="https://https://www.linkedin.com/in/fellipe-marques-32620b24a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+   <a href="https://www.linkedin.com/in/fellipe-marques-32620b24a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
