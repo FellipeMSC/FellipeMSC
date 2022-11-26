@@ -2,7 +2,7 @@
 
 
 
-- 📚 Atualmente estudando C++ e Python. 
+- 📚 Atualmente estudando C++ e JavaScript. 
 - 📫 Como me contatar: fellipemscs@gmail.com
 - 💻 Formação: Sistemas de Informação
 ##
@@ -16,7 +16,7 @@
           
 <div align="center" valign="top"><br>
   <img align="center" alt="cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div><br>
 
  
