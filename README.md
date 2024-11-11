@@ -1,8 +1,8 @@
-##  Bem vindo ao meu perfil! Eu sou Fellipe Marques♂️
+##  Bem vindo ao meu perfil! Eu sou Fellipe Marques ♂️
 
 
 
-- 📚 Atualmente estudando C++ e Java. 
+- 📚 Atualmente estudando C++, Java, HTML, CSS e C#. 
 - 📫 Como me contatar: fellipemscs@gmail.com
 - 💻 Formação: Sistemas de Informação
 ##
