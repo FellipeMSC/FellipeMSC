@@ -12,10 +12,7 @@
 Aqui estão alguns dos projetos completos que desenvolvi, focados em resolver problemas práticos e aplicar conceitos de engenharia de software:
 
 * 🌐 **[CalcSub-Redes](https://github.com/FellipeMSC/CalcSub-Redes):** Calculadora de sub-redes com foco didático, desenvolvida como meu Trabalho de Conclusão de Curso (TCC).
-* ⚙️ **[Relatorio-Project](https://github.com/FellipeMSC/Relatorio-Project):** Aplicação web fullstack (Python/Django) construída para automatizar e digitalizar relatórios diários de uma oficina de lubrificação, substituindo processos manuais.
 * 📦 **[Project-SEMAE](https://github.com/FellipeMSC/Project-SEMAE):** Sistema de Gerenciamento de Estoque e Solicitação de Produtos desenvolvido em Python para Secretarias Municipais de Educação.
-* ♟️ **[Chess-Project-Java](https://github.com/FellipeMSC/Chess-Project-Java):** Aplicação de xadrez construída para consolidar conhecimentos avançados de Programação Orientada a Objetos em Java.
-
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
