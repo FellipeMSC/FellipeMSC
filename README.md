@@ -26,7 +26,8 @@ Sigo focado em aprender novas tecnologias e melhorar minhas habilidades prática
 Trabalhos práticos desenvolvidos durante minha graduação em Sistemas de Informação que me ajudaram a consolidar a base da programação:
 
 * 🌐 **[TrabalhoWeb2](https://github.com/FellipeMSC/TrabalhoWeb2):** Projeto prático focado em desenvolvimento front-end utilizando JavaScript puro.
-* 🧬 **[Programa-oGenetica](https://github.com/FellipeMSC/Programa-oGenetica):** Aplicação desenvolvida em Java para resolução de problemas lógicos. *(Aviso: caso queira exibir este, lembre-se de mudar a visibilidade dele no GitHub de Private para Public!)*
+* 🗂️ **[TP1_AEDS2](https://github.com/FellipeMSC/TP1_AEDS2):**
+* 💻 **[Trabalho_Pratico_4](https://github.com/FellipeMSC/Trabalho_Pratico_4):** Projeto desenvolvido em C++ para aplicar e consolidar conceitos de programação e gerenciamento de memória.
 
 ---
 
