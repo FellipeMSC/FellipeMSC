@@ -12,7 +12,7 @@
 Aqui estão alguns dos projetos completos que desenvolvi, focados em resolver problemas práticos e aplicar conceitos de engenharia de software:
 
 * 🌐 **[CalcSub-Redes](https://github.com/FellipeMSC/CalcSub-Redes):** Calculadora de sub-redes com foco didático, desenvolvida como meu Trabalho de Conclusão de Curso (TCC).
-* 📦 **[Project-SEMAE](https://github.com/FellipeMSC/Project-SEMAE):** Sistema de Gerenciamento de Estoque e Solicitação de Produtos desenvolvido em Python para Secretarias Municipais de Educação.
+* 📦 **[Project-SEMAE](https://github.com/FellipeMSC/Project-SEMAE):** Sistema de Gerenciamento de Estoque e Solicitação de Produtos desenvolvido em Python para Secretarias Municipal de Educação (São João Evangelista).
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
