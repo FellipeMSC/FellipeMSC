@@ -22,15 +22,6 @@ Sigo focado em aprender novas tecnologias e melhorar minhas habilidades prática
 *  ♟️ **[Chess-Project-Java](https://github.com/FellipeMSC/Chess-Project-Java):** Aplicação de xadrez construída para consolidar conhecimentos avançados de Programação Orientada a Objetos em Java.
 ---
 
-### 📚 Projetos Acadêmicos
-Trabalhos práticos desenvolvidos durante minha graduação em Sistemas de Informação que me ajudaram a consolidar a base da programação:
-
-* 🌐 **[TrabalhoWeb2](https://github.com/FellipeMSC/TrabalhoWeb2):** Projeto prático focado em desenvolvimento front-end utilizando JavaScript puro.
-* 🗂️ **[TP1_AEDS2](https://github.com/FellipeMSC/TP1_AEDS2):**
-* 💻 **[Trabalho_Pratico_4](https://github.com/FellipeMSC/Trabalho_Pratico_4):** Projeto desenvolvido em C++ para aplicar e consolidar conceitos de programação e gerenciamento de memória.
-
----
-
 ### 🛠️ Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Felippe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
