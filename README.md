@@ -1,30 +1,45 @@
-##  Bem vindo ao meu perfil! Eu sou Fellipe Marques ♂️
+# Olá! Eu sou o Felippe Marques 👋
 
+### 👨‍💻 Sobre mim
+* 🎓 Recém-formado em **Sistemas de Informação**.
+* 🚀 Em busca de uma oportunidade como **Desenvolvedor Júnior**.
+* 💡 Apaixonado por criar soluções que automatizam processos e resolvem problemas reais.
+* 📚 Atualmente aprofundando meus conhecimentos em **Java, Python, C++, C#, HTML e CSS**.
 
+---
 
-- 📚 Atualmente estudando C++, Java, HTML, CSS e C#. 
-- 📫 Como me contatar: fellipemscs@gmail.com
-- 💻 Formação: Sistemas de Informação
-##
+### 📁 Projetos Finalizados (Em Destaque)
+Aqui estão alguns dos projetos completos que desenvolvi, focados em resolver problemas práticos e aplicar conceitos de engenharia de software:
 
+* 🌐 **[CalcSub-Redes](https://github.com/FellipeMSC/CalcSub-Redes):** Calculadora de sub-redes com foco didático, desenvolvida como meu Trabalho de Conclusão de Curso (TCC).
+* ⚙️ **[Relatorio-Project](https://github.com/FellipeMSC/Relatorio-Project):** Aplicação web fullstack (Python/Django) construída para automatizar e digitalizar relatórios diários de uma oficina de lubrificação, substituindo processos manuais.
+* 📦 **[Project-SEMAE](https://github.com/FellipeMSC/Project-SEMAE):** Sistema de Gerenciamento de Estoque e Solicitação de Produtos desenvolvido em Python para Secretarias Municipais de Educação.
+* ♟️ **[Chess-Project-Java](https://github.com/FellipeMSC/Chess-Project-Java):** Aplicação de xadrez construída para consolidar conhecimentos avançados de Programação Orientada a Objetos em Java.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+<div style="display: inline_block"><br>
+  <img align="center" alt="Felippe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Felippe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Felippe-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Felippe-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Felippe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Felippe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/FellipeMSC">
-  <img height="120" src="https://github-readme-stats.vercel.app/api?username=FellipeMSC&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeMSC&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FellipeMSC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FellipeMSC&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-          
-<div align="center" valign="top"><br>
-  <img align="center" alt="cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> 
-</div><br>
 
- 
-  ##
-  
-  <div> 
- <a href="https://github.com/FellipeMSC" target="_blank"><img src="http://ForTheBadge.com/images/badges/built-by-developers.svg" target="_blank"></a>
- <a href="https://github.com/FellipeMSC" target="_blank"><img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" target="_blank"></a>
- 
-   <a href="https://www.linkedin.com/in/fellipe-marques-32620b24a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+---
+
+### 📫 Como me encontrar
+
+<a href="mailto:fellipemscs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/fellipemarques9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
