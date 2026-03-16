@@ -15,6 +15,21 @@ Aqui estão alguns dos projetos completos que desenvolvi, focados em resolver pr
 * 📦 **[Project-SEMAE](https://github.com/FellipeMSC/Project-SEMAE):** Sistema de Gerenciamento de Estoque e Solicitação de Produtos desenvolvido em Python para Secretarias Municipal de Educação (São João Evangelista).
 ---
 
+### 🚧 Projetos em Andamento
+Sigo focado em aprender novas tecnologias e melhorar minhas habilidades práticas. Atualmente estou trabalhando em:
+
+* ⚙️ **[Relatorio-Project](https://github.com/FellipeMSC/Relatorio-Project):** Aplicação web fullstack (Python/Django) construída para automatizar e digitalizar relatórios diários de uma oficina de lubrificação, substituindo processos manuais.
+*  ♟️ **[Chess-Project-Java](https://github.com/FellipeMSC/Chess-Project-Java):** Aplicação de xadrez construída para consolidar conhecimentos avançados de Programação Orientada a Objetos em Java.
+---
+
+### 📚 Projetos Acadêmicos
+Trabalhos práticos desenvolvidos durante minha graduação em Sistemas de Informação que me ajudaram a consolidar a base da programação:
+
+* 🌐 **[TrabalhoWeb2](https://github.com/FellipeMSC/TrabalhoWeb2):** Projeto prático focado em desenvolvimento front-end utilizando JavaScript puro.
+* 🧬 **[Programa-oGenetica](https://github.com/FellipeMSC/Programa-oGenetica):** Aplicação desenvolvida em Java para resolução de problemas lógicos. *(Aviso: caso queira exibir este, lembre-se de mudar a visibilidade dele no GitHub de Private para Public!)*
+
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Felippe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
